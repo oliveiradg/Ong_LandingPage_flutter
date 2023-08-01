@@ -65,4 +65,4 @@ Se você tiver alguma dúvida ou precisar entrar em contato com a equipe de dese
 
 ---
 
-Este é um exemplo de um README profissional para o projeto Flutter Web da ONG "Patinhas Felizes". Lembre-se de personalizá-lo com informações relevantes para o seu projeto e garantir que todas as informações importantes sejam fornecidas para que outros desenvolvedores possam entender e contribuir com o seu projeto.
+Feito com 💙 por JBOliveira.Dev 
